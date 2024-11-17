@@ -1,0 +1,3432 @@
+{
+    "type": "playListPart_v2",
+    "data": {
+        "id": "love",
+        "name": "list__name_love",
+        "list": [
+            {
+                "id": "wy_2062890986",
+                "name": "あの夏が飽和する。-  covered by 花譜",
+                "singer": "花譜",
+                "source": "wy",
+                "interval": "06:29",
+                "meta": {
+                    "songId": 2062890986,
+                    "albumName": "",
+                    "picUrl": "https://p2.music.126.net/-sRQrquIuUaBZGgUblNZAQ==/109951168730431163.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "5.94 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "14.86 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "320k": {
+                            "size": "14.86 MB"
+                        },
+                        "128k": {
+                            "size": "5.94 MB"
+                        }
+                    },
+                    "albumId": 0
+                }
+            },
+            {
+                "id": "wy_1911314310",
+                "name": "アンサー",
+                "singer": "花譜",
+                "source": "wy",
+                "interval": "03:50",
+                "meta": {
+                    "songId": 1911314310,
+                    "albumName": "花と解答",
+                    "picUrl": "https://p2.music.126.net/k5sYV0_l5hak7qrOXfiL1g==/109951166923517189.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "3.52 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "8.80 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "24.28 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "24.28 MB"
+                        },
+                        "320k": {
+                            "size": "8.80 MB"
+                        },
+                        "128k": {
+                            "size": "3.52 MB"
+                        }
+                    },
+                    "albumId": 138749631
+                }
+            },
+            {
+                "id": "wy_1501447572",
+                "name": "彷徨い",
+                "singer": "花譜",
+                "source": "wy",
+                "interval": "04:22",
+                "meta": {
+                    "songId": 1501447572,
+                    "albumName": "魔法",
+                    "picUrl": "http://p2.music.126.net/OPArnWreTh4ISr7LvlNhVw==/109951168551087913.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.01 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "10.02 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "27.79 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "27.79 MB"
+                        },
+                        "320k": {
+                            "size": "10.02 MB"
+                        },
+                        "128k": {
+                            "size": "4.01 MB"
+                        }
+                    },
+                    "albumId": 99279869
+                }
+            },
+            {
+                "id": "wy_2042046337",
+                "name": "あさひ",
+                "singer": "花譜、佐倉綾音",
+                "source": "wy",
+                "interval": "07:23",
+                "meta": {
+                    "songId": 2042046337,
+                    "albumName": "あさひ",
+                    "picUrl": "http://p2.music.126.net/srllDL-_P79llZYYw-PNFA==/109951168567596177.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "6.77 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "16.91 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "43.84 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "43.84 MB"
+                        },
+                        "320k": {
+                            "size": "16.91 MB"
+                        },
+                        "128k": {
+                            "size": "6.77 MB"
+                        }
+                    },
+                    "albumId": 164317145
+                }
+            },
+            {
+                "id": "wy_1303026229",
+                "name": "astral ability (Piano Version)",
+                "singer": "Famishin",
+                "source": "wy",
+                "interval": "03:44",
+                "meta": {
+                    "songId": 1303026229,
+                    "albumName": "RIDDLE JOKER オリジナルサウンドトラック",
+                    "picUrl": "https://p2.music.126.net/YM3igu2abTjWdIfT_Gn5Lw==/109951163479574970.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "3.43 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "8.57 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "14.45 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "14.45 MB"
+                        },
+                        "320k": {
+                            "size": "8.57 MB"
+                        },
+                        "128k": {
+                            "size": "3.43 MB"
+                        }
+                    },
+                    "albumId": 72385706
+                }
+            },
+            {
+                "id": "wy_547780876",
+                "name": "春之行",
+                "singer": "灰澈",
+                "source": "wy",
+                "interval": "03:47",
+                "meta": {
+                    "songId": 547780876,
+                    "albumName": "春之行",
+                    "picUrl": "https://p2.music.126.net/ogNGax3WZudTPaT2iYaEdA==/109951163206875333.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "3.47 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "8.68 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "19.68 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "19.68 MB"
+                        },
+                        "320k": {
+                            "size": "8.68 MB"
+                        },
+                        "128k": {
+                            "size": "3.47 MB"
+                        }
+                    },
+                    "albumId": 37995769
+                }
+            },
+            {
+                "id": "wy_2051327914",
+                "name": "Sea, Your Memory (LU-I remix)",
+                "singer": "VISUAL ARTS / Key",
+                "source": "wy",
+                "interval": "04:53",
+                "meta": {
+                    "songId": 2051327914,
+                    "albumName": "Summer Pockets Arrange Albim 『Seven's sea』",
+                    "picUrl": "https://p2.music.126.net/GMu6s8zDeGHlPzd1q9XO6g==/109951169976594141.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.48 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "11.19 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "37.24 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "37.24 MB"
+                        },
+                        "320k": {
+                            "size": "11.19 MB"
+                        },
+                        "128k": {
+                            "size": "4.48 MB"
+                        }
+                    },
+                    "albumId": 166580859
+                }
+            },
+            {
+                "id": "wy_1311346840",
+                "name": "夏を刻んだ、波の音は…",
+                "singer": "VISUAL ARTS / Key",
+                "source": "wy",
+                "interval": "02:46",
+                "meta": {
+                    "songId": 1311346840,
+                    "albumName": "Summer Pockets Original SoundTrack",
+                    "picUrl": "https://p2.music.126.net/MVWKZCUCNQocuhMRBpL-Qw==/109951169976613728.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "2.54 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "6.34 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "14.08 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "14.08 MB"
+                        },
+                        "320k": {
+                            "size": "6.34 MB"
+                        },
+                        "128k": {
+                            "size": "2.54 MB"
+                        }
+                    },
+                    "albumId": 73470837
+                }
+            },
+            {
+                "id": "wy_1809713103",
+                "name": "アスタロア -reflect-",
+                "singer": "VISUAL ARTS / Key",
+                "source": "wy",
+                "interval": "02:02",
+                "meta": {
+                    "songId": 1809713103,
+                    "albumName": "Summer Pockets REFLECTION BLUE Original SoundTrack",
+                    "picUrl": "https://p2.music.126.net/GP5_cAc7LyRDqvtiX05qZA==/109951169976593624.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "1.87 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "4.67 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "7.50 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "7.50 MB"
+                        },
+                        "320k": {
+                            "size": "4.67 MB"
+                        },
+                        "128k": {
+                            "size": "1.87 MB"
+                        }
+                    },
+                    "albumId": 121239832
+                }
+            },
+            {
+                "id": "wy_1311347847",
+                "name": "Sea, You Next",
+                "singer": "VISUAL ARTS / Key",
+                "source": "wy",
+                "interval": "02:34",
+                "meta": {
+                    "songId": 1311347847,
+                    "albumName": "Summer Pockets Original SoundTrack",
+                    "picUrl": "https://p1.music.126.net/MVWKZCUCNQocuhMRBpL-Qw==/109951169976613728.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "2.36 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "5.90 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "9.93 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "9.93 MB"
+                        },
+                        "320k": {
+                            "size": "5.90 MB"
+                        },
+                        "128k": {
+                            "size": "2.36 MB"
+                        }
+                    },
+                    "albumId": 73470837
+                }
+            },
+            {
+                "id": "wy_1951011166",
+                "name": "リバーブ",
+                "singer": "DAZBEE",
+                "source": "wy",
+                "interval": "04:29",
+                "meta": {
+                    "songId": 1951011166,
+                    "albumName": "リバーブ",
+                    "picUrl": "https://p1.music.126.net/I-CcRX3knql7573hjEqFyQ==/109951167479910101.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.11 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "10.28 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "28.88 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "28.88 MB"
+                        },
+                        "320k": {
+                            "size": "10.28 MB"
+                        },
+                        "128k": {
+                            "size": "4.11 MB"
+                        }
+                    },
+                    "albumId": 145596928
+                }
+            },
+            {
+                "id": "wy_1337185416",
+                "name": "広がる海、水平線とカモメ",
+                "singer": "VISUAL ARTS / Key",
+                "source": "wy",
+                "interval": "04:39",
+                "meta": {
+                    "songId": 1337185416,
+                    "albumName": "Summer Pockets Arrange Album『Summer Session ～ひと夏の冒険～』",
+                    "picUrl": "https://p1.music.126.net/eWTd74ezwpFdGQdct0VFIg==/109951169976610433.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.27 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "10.67 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "25.00 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "25.00 MB"
+                        },
+                        "320k": {
+                            "size": "10.67 MB"
+                        },
+                        "128k": {
+                            "size": "4.27 MB"
+                        }
+                    },
+                    "albumId": 75035977
+                }
+            },
+            {
+                "id": "wy_1311346848",
+                "name": "眩しさの中",
+                "singer": "VISUAL ARTS / Key",
+                "source": "wy",
+                "interval": "04:19",
+                "meta": {
+                    "songId": 1311346848,
+                    "albumName": "Summer Pockets Original SoundTrack",
+                    "picUrl": "https://p1.music.126.net/MVWKZCUCNQocuhMRBpL-Qw==/109951169976613728.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "3.97 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "9.91 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "18.19 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "18.19 MB"
+                        },
+                        "320k": {
+                            "size": "9.91 MB"
+                        },
+                        "128k": {
+                            "size": "3.97 MB"
+                        }
+                    },
+                    "albumId": 73470837
+                }
+            },
+            {
+                "id": "wy_1809713120",
+                "name": "潮騒の香り",
+                "singer": "VISUAL ARTS / Key",
+                "source": "wy",
+                "interval": "05:35",
+                "meta": {
+                    "songId": 1809713120,
+                    "albumName": "Summer Pockets REFLECTION BLUE Original SoundTrack",
+                    "picUrl": "https://p2.music.126.net/GP5_cAc7LyRDqvtiX05qZA==/109951169976593624.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "5.11 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "12.79 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "33.35 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "33.35 MB"
+                        },
+                        "320k": {
+                            "size": "12.79 MB"
+                        },
+                        "128k": {
+                            "size": "5.11 MB"
+                        }
+                    },
+                    "albumId": 121239832
+                }
+            },
+            {
+                "id": "wy_1418811812",
+                "name": "紬の夏休み (Instrument)",
+                "singer": "VISUAL ARTS / Key",
+                "source": "wy",
+                "interval": "05:47",
+                "meta": {
+                    "songId": 1418811812,
+                    "albumName": "Summer Pockets Orchestara Album 『Echoes of Summer』",
+                    "picUrl": "https://p1.music.126.net/OVIhWDQ0IPGciMUaBFX4Tg==/109951169976613334.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "5.30 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "13.25 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "29.16 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "29.16 MB"
+                        },
+                        "320k": {
+                            "size": "13.25 MB"
+                        },
+                        "128k": {
+                            "size": "5.30 MB"
+                        }
+                    },
+                    "albumId": 85207021
+                }
+            },
+            {
+                "id": "wy_26108696",
+                "name": "「ねぇ。」",
+                "singer": "鹿乃",
+                "source": "wy",
+                "interval": "06:23",
+                "meta": {
+                    "songId": 26108696,
+                    "albumName": "すきなの。",
+                    "picUrl": "https://p2.music.126.net/j0czTjhshtvB6Zpvr71aNw==/3262251004667947.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "5.85 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "14.63 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "42.77 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "42.77 MB"
+                        },
+                        "320k": {
+                            "size": "14.63 MB"
+                        },
+                        "128k": {
+                            "size": "5.85 MB"
+                        }
+                    },
+                    "albumId": 2387980
+                }
+            },
+            {
+                "id": "wy_744979",
+                "name": "オランピア",
+                "singer": "蛍灯翔",
+                "source": "wy",
+                "interval": "03:28",
+                "meta": {
+                    "songId": 744979,
+                    "albumName": "彼方に巡る呗",
+                    "picUrl": "https://p2.music.126.net/2D1s3mTKveLePuIWe6cSfQ==/899400511520975.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "3.19 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "7.97 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "19.35 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "19.35 MB"
+                        },
+                        "320k": {
+                            "size": "7.97 MB"
+                        },
+                        "128k": {
+                            "size": "3.19 MB"
+                        }
+                    },
+                    "albumId": 73117
+                }
+            },
+            {
+                "id": "wy_848319",
+                "name": "ため息",
+                "singer": "チュール",
+                "source": "wy",
+                "interval": "04:37",
+                "meta": {
+                    "songId": 848319,
+                    "albumName": "ココロノウタ",
+                    "picUrl": "https://p2.music.126.net/uGpwuVeT_BbVUc6E3QTIWA==/109951166201032772.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.24 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "10.59 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "49.86 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "49.86 MB"
+                        },
+                        "320k": {
+                            "size": "10.59 MB"
+                        },
+                        "128k": {
+                            "size": "4.24 MB"
+                        }
+                    },
+                    "albumId": 84484
+                }
+            },
+            {
+                "id": "wy_26349198",
+                "name": "何度も",
+                "singer": "RAM WIRE",
+                "source": "wy",
+                "interval": "05:14",
+                "meta": {
+                    "songId": 26349198,
+                    "albumName": "ほどく",
+                    "picUrl": "https://p2.music.126.net/1xHEk3lzc5_27k6jDYtYsw==/109951166200821146.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.80 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "12.00 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "37.91 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "37.91 MB"
+                        },
+                        "320k": {
+                            "size": "12.00 MB"
+                        },
+                        "128k": {
+                            "size": "4.80 MB"
+                        }
+                    },
+                    "albumId": 2462040
+                }
+            },
+            {
+                "id": "wy_41643530",
+                "name": "夜空。",
+                "singer": "miwa",
+                "source": "wy",
+                "interval": "05:10",
+                "meta": {
+                    "songId": 41643530,
+                    "albumName": "miwa ballad collection 〜graduation〜",
+                    "picUrl": "https://p2.music.126.net/zktAetSDLCmnD6uafoF7zw==/109951166670513561.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.74 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "11.85 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "59.46 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "59.46 MB"
+                        },
+                        "320k": {
+                            "size": "11.85 MB"
+                        },
+                        "128k": {
+                            "size": "4.74 MB"
+                        }
+                    },
+                    "albumId": 3443875
+                }
+            },
+            {
+                "id": "wy_26323013",
+                "name": "I see",
+                "singer": "eyelis",
+                "source": "wy",
+                "interval": "04:29",
+                "meta": {
+                    "songId": 26323013,
+                    "albumName": "CAN'T TAKE MY EYES OFF YOU",
+                    "picUrl": "https://p2.music.126.net/6qa93NtvEFcOPOQ0tEPHrQ==/109951164173370183.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.12 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "10.29 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "23.62 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "23.62 MB"
+                        },
+                        "320k": {
+                            "size": "10.29 MB"
+                        },
+                        "128k": {
+                            "size": "4.12 MB"
+                        }
+                    },
+                    "albumId": 2451017
+                }
+            },
+            {
+                "id": "wy_27955401",
+                "name": "Dear",
+                "singer": "ヲタみん",
+                "source": "wy",
+                "interval": "05:26",
+                "meta": {
+                    "songId": 27955401,
+                    "albumName": "Ambitious Voice",
+                    "picUrl": "https://p2.music.126.net/1GNnSen1mvWytYDpuP7SZQ==/5725157045950689.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.99 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "12.46 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "34.67 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "34.67 MB"
+                        },
+                        "320k": {
+                            "size": "12.46 MB"
+                        },
+                        "128k": {
+                            "size": "4.99 MB"
+                        }
+                    },
+                    "albumId": 2698246
+                }
+            },
+            {
+                "id": "wy_36578532",
+                "name": "will",
+                "singer": "小春めう",
+                "source": "wy",
+                "interval": "05:46",
+                "meta": {
+                    "songId": 36578532,
+                    "albumName": "next new world",
+                    "picUrl": "https://p2.music.126.net/y-kt2zjGxUmxwQlLnt9yyA==/3396391420105110.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "5.30 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "13.24 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "320k": {
+                            "size": "13.24 MB"
+                        },
+                        "128k": {
+                            "size": "5.30 MB"
+                        }
+                    },
+                    "albumId": 3403199
+                }
+            },
+            {
+                "id": "wy_28563201",
+                "name": "奏 (かなで)",
+                "singer": "雨宮天",
+                "source": "wy",
+                "interval": "05:07",
+                "meta": {
+                    "songId": 28563201,
+                    "albumName": "奏 (かなで)",
+                    "picUrl": "https://p2.music.126.net/OnUpXkyz4JZCRxWeSzhneg==/5986840813486821.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.69 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "11.73 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "34.02 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "34.02 MB"
+                        },
+                        "320k": {
+                            "size": "11.73 MB"
+                        },
+                        "128k": {
+                            "size": "4.69 MB"
+                        }
+                    },
+                    "albumId": 2843027
+                }
+            },
+            {
+                "id": "wy_22770769",
+                "name": "涙",
+                "singer": "川嶋あい",
+                "source": "wy",
+                "interval": "05:14",
+                "meta": {
+                    "songId": 22770769,
+                    "albumName": "Simple Treasure",
+                    "picUrl": "https://p1.music.126.net/_o7IAVXbXG5ak3rIfM-qSQ==/109951165427256326.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.79 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "11.98 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "53.63 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "53.63 MB"
+                        },
+                        "320k": {
+                            "size": "11.98 MB"
+                        },
+                        "128k": {
+                            "size": "4.79 MB"
+                        }
+                    },
+                    "albumId": 2091922
+                }
+            },
+            {
+                "id": "wy_536623722",
+                "name": "ウィアートル",
+                "singer": "rionos",
+                "source": "wy",
+                "interval": "04:48",
+                "meta": {
+                    "songId": 536623722,
+                    "albumName": "映画「さよならの朝に約束の花をかざろう」オリジナルサウンドトラック",
+                    "picUrl": "https://p1.music.126.net/lWvwd_TlLeHd7e7o53s-Uw==/109951163161447987.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.40 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "10.99 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "23.76 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "23.76 MB"
+                        },
+                        "320k": {
+                            "size": "10.99 MB"
+                        },
+                        "128k": {
+                            "size": "4.40 MB"
+                        }
+                    },
+                    "albumId": 37577163
+                }
+            },
+            {
+                "id": "wy_29379816",
+                "name": "それがあなたの幸せとしても",
+                "singer": "上北健",
+                "source": "wy",
+                "interval": "04:31",
+                "meta": {
+                    "songId": 29379816,
+                    "albumName": "心音",
+                    "picUrl": "https://p1.music.126.net/JjTljJsSkj11FovmhqOxrw==/109951167355535952.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.14 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "10.34 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "320k": {
+                            "size": "10.34 MB"
+                        },
+                        "128k": {
+                            "size": "4.14 MB"
+                        }
+                    },
+                    "albumId": 3007991
+                }
+            },
+            {
+                "id": "wy_33861559",
+                "name": "君に聴かせたかった歌 (Original Artist:6% is MINE)",
+                "singer": "H△G",
+                "source": "wy",
+                "interval": "04:48",
+                "meta": {
+                    "songId": 33861559,
+                    "albumName": "少女たちの終わらない夜",
+                    "picUrl": "https://p1.music.126.net/7Ni8taIUQsiOovIuzoHrjg==/3263350511506520.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.41 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "11.02 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "30.07 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "30.07 MB"
+                        },
+                        "320k": {
+                            "size": "11.02 MB"
+                        },
+                        "128k": {
+                            "size": "4.41 MB"
+                        }
+                    },
+                    "albumId": 3264190
+                }
+            },
+            {
+                "id": "wy_446627347",
+                "name": "心拍数♯0822（翻自 初音ミク）",
+                "singer": "Akie秋绘",
+                "source": "wy",
+                "interval": "04:37",
+                "meta": {
+                    "songId": 446627347,
+                    "albumName": "冬氤。2016-17",
+                    "picUrl": "https://p1.music.126.net/EizbSb-yKpjslyUOQjdsdA==/109951162822510988.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.24 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "10.61 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "320k": {
+                            "size": "10.61 MB"
+                        },
+                        "128k": {
+                            "size": "4.24 MB"
+                        }
+                    },
+                    "albumId": 35048579
+                }
+            },
+            {
+                "id": "wy_1376882360",
+                "name": "フリージア/希望之花（TV动画《机动战士高达 铁血的孤儿 第二季》ED2）（翻自 Uru）",
+                "singer": "翩跹梨兮",
+                "source": "wy",
+                "interval": "05:35",
+                "meta": {
+                    "songId": 1376882360,
+                    "albumName": "フリージア/希望之花（TV动画《机动战士高达 铁血的孤儿 第二季》ED2） - Uru",
+                    "picUrl": "https://p1.music.126.net/Lk5I5b0DpNROGN6UvX8SiA==/109951164202903401.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "5.13 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "12.81 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "320k": {
+                            "size": "12.81 MB"
+                        },
+                        "128k": {
+                            "size": "5.13 MB"
+                        }
+                    },
+                    "albumId": 80257222
+                }
+            },
+            {
+                "id": "wy_1327341488",
+                "name": "ひまわりの約束",
+                "singer": "Lefty Hand Cream",
+                "source": "wy",
+                "interval": "05:11",
+                "meta": {
+                    "songId": 1327341488,
+                    "albumName": "Lefty Hand Covers Ⅱ",
+                    "picUrl": "https://p1.music.126.net/6Equs_n-FrHndGb3SGT7EA==/109951165779395044.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.75 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "11.87 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "32.78 MB"
+                        },
+                        {
+                            "type": "flac24bit",
+                            "size": "61.12 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac24bit": {
+                            "size": "61.12 MB"
+                        },
+                        "flac": {
+                            "size": "32.78 MB"
+                        },
+                        "320k": {
+                            "size": "11.87 MB"
+                        },
+                        "128k": {
+                            "size": "4.75 MB"
+                        }
+                    },
+                    "albumId": 74512181
+                }
+            },
+            {
+                "id": "wy_4898497",
+                "name": "キミの隣りで…",
+                "singer": "飯田舞",
+                "source": "wy",
+                "interval": "04:39",
+                "meta": {
+                    "songId": 4898497,
+                    "albumName": "night words",
+                    "picUrl": "https://p1.music.126.net/b_yDmh2BBfkkBq4MpxKZKw==/764160581348847.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.27 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "10.68 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "28.69 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "28.69 MB"
+                        },
+                        "320k": {
+                            "size": "10.68 MB"
+                        },
+                        "128k": {
+                            "size": "4.27 MB"
+                        }
+                    },
+                    "albumId": 491434
+                }
+            },
+            {
+                "id": "wy_1494734554",
+                "name": "alternate",
+                "singer": "杪夏sumika",
+                "source": "wy",
+                "interval": "05:21",
+                "meta": {
+                    "songId": 1494734554,
+                    "albumName": "❀2020年翻唱集❀",
+                    "picUrl": "https://p1.music.126.net/UUkH0wbxc0h-bfIWJWNJTQ==/109951167554327651.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.91 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "12.28 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "58.40 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "58.40 MB"
+                        },
+                        "320k": {
+                            "size": "12.28 MB"
+                        },
+                        "128k": {
+                            "size": "4.91 MB"
+                        }
+                    },
+                    "albumId": 97608221
+                }
+            },
+            {
+                "id": "wy_32288483",
+                "name": "垂直の青の果て",
+                "singer": "nayuta",
+                "source": "wy",
+                "interval": "05:01",
+                "meta": {
+                    "songId": 32288483,
+                    "albumName": "想い出を綴る歌と君と。",
+                    "picUrl": "https://p1.music.126.net/Zne3nWC0wk5HPM1Vcy5dAg==/7861508139469775.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.61 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "11.52 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "36.30 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "36.30 MB"
+                        },
+                        "320k": {
+                            "size": "11.52 MB"
+                        },
+                        "128k": {
+                            "size": "4.61 MB"
+                        }
+                    },
+                    "albumId": 3154436
+                }
+            },
+            {
+                "id": "wy_423118180",
+                "name": "morning",
+                "singer": "雨のパレード",
+                "source": "wy",
+                "interval": "03:38",
+                "meta": {
+                    "songId": 423118180,
+                    "albumName": "You",
+                    "picUrl": "https://p1.music.126.net/5F8QhfO9_cNokjja8Rs5og==/109951167351240628.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "3.33 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "8.33 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "19.85 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "19.85 MB"
+                        },
+                        "320k": {
+                            "size": "8.33 MB"
+                        },
+                        "128k": {
+                            "size": "3.33 MB"
+                        }
+                    },
+                    "albumId": 34790167
+                }
+            },
+            {
+                "id": "wy_1355421725",
+                "name": "命に嫌われている",
+                "singer": "清予SeiYo",
+                "source": "wy",
+                "interval": "05:27",
+                "meta": {
+                    "songId": 1355421725,
+                    "albumName": "清予日翻",
+                    "picUrl": "https://p1.music.126.net/QkUtk9O0sNWE4IALk636JA==/109951163962245707.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.99 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "12.48 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "320k": {
+                            "size": "12.48 MB"
+                        },
+                        "128k": {
+                            "size": "4.99 MB"
+                        }
+                    },
+                    "albumId": 78236966
+                }
+            },
+            {
+                "id": "wy_1336840812",
+                "name": "きみの名前",
+                "singer": "藤川千愛",
+                "source": "wy",
+                "interval": "05:00",
+                "meta": {
+                    "songId": 1336840812,
+                    "albumName": "きみの名前",
+                    "picUrl": "https://p1.music.126.net/bjmNwnmjzE70MgsUZuy1Ng==/109951163992680193.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.59 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "11.48 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "35.18 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "35.18 MB"
+                        },
+                        "320k": {
+                            "size": "11.48 MB"
+                        },
+                        "128k": {
+                            "size": "4.59 MB"
+                        }
+                    },
+                    "albumId": 75015891
+                }
+            },
+            {
+                "id": "wy_482988414",
+                "name": "ETERNAL♭",
+                "singer": "安野希世乃",
+                "source": "wy",
+                "interval": "05:40",
+                "meta": {
+                    "songId": 482988414,
+                    "albumName": "ETERNAL♭",
+                    "picUrl": "https://p1.music.126.net/WPp0tnRTACRGr1Xzay9ohA==/18543263604381903.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "5.20 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "12.99 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "41.56 MB"
+                        },
+                        {
+                            "type": "flac24bit",
+                            "size": "72.44 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac24bit": {
+                            "size": "72.44 MB"
+                        },
+                        "flac": {
+                            "size": "41.56 MB"
+                        },
+                        "320k": {
+                            "size": "12.99 MB"
+                        },
+                        "128k": {
+                            "size": "5.20 MB"
+                        }
+                    },
+                    "albumId": 35589518
+                }
+            },
+            {
+                "id": "wy_1343016205",
+                "name": "closer again",
+                "singer": "Miyuu",
+                "source": "wy",
+                "interval": "05:16",
+                "meta": {
+                    "songId": 1343016205,
+                    "albumName": "closer again",
+                    "picUrl": "https://p1.music.126.net/gi0ejNOy9X4M5Z-2I8HeCA==/109951163849859531.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.83 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "12.08 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "31.01 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "31.01 MB"
+                        },
+                        "320k": {
+                            "size": "12.08 MB"
+                        },
+                        "128k": {
+                            "size": "4.83 MB"
+                        }
+                    },
+                    "albumId": 75377527
+                }
+            },
+            {
+                "id": "wy_4898499",
+                "name": "最高の片想い",
+                "singer": "タイナカ彩智",
+                "source": "wy",
+                "interval": "04:31",
+                "meta": {
+                    "songId": 4898499,
+                    "albumName": "night words",
+                    "picUrl": "https://p1.music.126.net/b_yDmh2BBfkkBq4MpxKZKw==/764160581348847.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.15 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "10.37 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "25.87 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "25.87 MB"
+                        },
+                        "320k": {
+                            "size": "10.37 MB"
+                        },
+                        "128k": {
+                            "size": "4.15 MB"
+                        }
+                    },
+                    "albumId": 491434
+                }
+            },
+            {
+                "id": "wy_426501184",
+                "name": "ぼうやの梦よ",
+                "singer": "高橋李依",
+                "source": "wy",
+                "interval": "03:30",
+                "meta": {
+                    "songId": 426501184,
+                    "albumName": "Stay Alive",
+                    "picUrl": "https://p1.music.126.net/-D2Ah4R5kzCRpWguvLLb1g==/109951169283354803.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "3.21 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "8.03 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "19.15 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "19.15 MB"
+                        },
+                        "320k": {
+                            "size": "8.03 MB"
+                        },
+                        "128k": {
+                            "size": "3.21 MB"
+                        }
+                    },
+                    "albumId": 34833064
+                }
+            },
+            {
+                "id": "wy_501220772",
+                "name": "ナラタージュ",
+                "singer": "adieu",
+                "source": "wy",
+                "interval": "05:40",
+                "meta": {
+                    "songId": 501220772,
+                    "albumName": "ナラタージュ",
+                    "picUrl": "https://p1.music.126.net/1rXiJxS9tph5jIoV1nYzmQ==/109951166198529606.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "5.20 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "13.01 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "61.18 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "61.18 MB"
+                        },
+                        "320k": {
+                            "size": "13.01 MB"
+                        },
+                        "128k": {
+                            "size": "5.20 MB"
+                        }
+                    },
+                    "albumId": 36031462
+                }
+            },
+            {
+                "id": "wy_825518",
+                "name": "うたかた花火",
+                "singer": "supercell",
+                "source": "wy",
+                "interval": "06:01",
+                "meta": {
+                    "songId": 825518,
+                    "albumName": "うたかた花火/星が瞬くこんな夜に",
+                    "picUrl": "https://p1.music.126.net/deSbNUsm_WVlCotnUeN2hw==/109951166200380956.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "5.52 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "13.79 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "38.84 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "38.84 MB"
+                        },
+                        "320k": {
+                            "size": "13.79 MB"
+                        },
+                        "128k": {
+                            "size": "5.52 MB"
+                        }
+                    },
+                    "albumId": 81907
+                }
+            },
+            {
+                "id": "wy_555142",
+                "name": "そばにいるね",
+                "singer": "青山テルマ、SoulJa",
+                "source": "wy",
+                "interval": "05:04",
+                "meta": {
+                    "songId": 555142,
+                    "albumName": "そばにいるね",
+                    "picUrl": "https://p1.music.126.net/0oJU4Gwv1hUwNp14P18wkg==/109951166230040707.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.65 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "11.63 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "34.54 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "34.54 MB"
+                        },
+                        "320k": {
+                            "size": "11.63 MB"
+                        },
+                        "128k": {
+                            "size": "4.65 MB"
+                        }
+                    },
+                    "albumId": 51913
+                }
+            },
+            {
+                "id": "wy_1443613262",
+                "name": "風に吹かれて",
+                "singer": "福原遥",
+                "source": "wy",
+                "interval": "04:34",
+                "meta": {
+                    "songId": 1443613262,
+                    "albumName": "風に吹かれて",
+                    "picUrl": "https://p1.music.126.net/d1ADSVSeMTh1z0BpVNWMUg==/109951166202398902.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.19 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "10.47 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "54.59 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "54.59 MB"
+                        },
+                        "320k": {
+                            "size": "10.47 MB"
+                        },
+                        "128k": {
+                            "size": "4.19 MB"
+                        }
+                    },
+                    "albumId": 88576463
+                }
+            },
+            {
+                "id": "wy_740558",
+                "name": "今晩はお月さん",
+                "singer": "ハンバート ハンバート",
+                "source": "wy",
+                "interval": "03:44",
+                "meta": {
+                    "songId": 740558,
+                    "albumName": "今晩はお月さん",
+                    "picUrl": "https://p1.music.126.net/5TtO0AZhY6a10BzANffaKw==/109951169433087077.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "3.43 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "8.57 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "19.22 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "19.22 MB"
+                        },
+                        "320k": {
+                            "size": "8.57 MB"
+                        },
+                        "128k": {
+                            "size": "3.43 MB"
+                        }
+                    },
+                    "albumId": 72602
+                }
+            },
+            {
+                "id": "wy_22707009",
+                "name": "小さなてのひら",
+                "singer": "riya",
+                "source": "wy",
+                "interval": "04:45",
+                "meta": {
+                    "songId": 22707009,
+                    "albumName": "CLANNAD ORIGINAL SOUNDTRACK",
+                    "picUrl": "https://p1.music.126.net/PtLd62-khEg8iCutTdE5Vg==/109951163286813093.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.35 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "10.87 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "26.37 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "26.37 MB"
+                        },
+                        "320k": {
+                            "size": "10.87 MB"
+                        },
+                        "128k": {
+                            "size": "4.35 MB"
+                        }
+                    },
+                    "albumId": 2083842
+                }
+            },
+            {
+                "id": "wy_1405903996",
+                "name": "異人たちの時間",
+                "singer": "楠木ともり",
+                "source": "wy",
+                "interval": "04:39",
+                "meta": {
+                    "songId": 1405903996,
+                    "albumName": "異人たちの時間",
+                    "picUrl": "https://p1.music.126.net/K0fu0HYm2oqRjuYWh7mvGg==/109951164510299705.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.27 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "10.68 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "24.33 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "24.33 MB"
+                        },
+                        "320k": {
+                            "size": "10.68 MB"
+                        },
+                        "128k": {
+                            "size": "4.27 MB"
+                        }
+                    },
+                    "albumId": 83660979
+                }
+            },
+            {
+                "id": "wy_573426414",
+                "name": "ひび割れた世界",
+                "singer": "majiko",
+                "source": "wy",
+                "interval": "05:24",
+                "meta": {
+                    "songId": 573426414,
+                    "albumName": "ひび割れた世界",
+                    "picUrl": "https://p1.music.126.net/J7dEefaKk9WA5YB1N4QwqA==/109951166531775507.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.95 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "12.38 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "36.35 MB"
+                        },
+                        {
+                            "type": "flac24bit",
+                            "size": "65.85 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac24bit": {
+                            "size": "65.85 MB"
+                        },
+                        "flac": {
+                            "size": "36.35 MB"
+                        },
+                        "320k": {
+                            "size": "12.38 MB"
+                        },
+                        "128k": {
+                            "size": "4.95 MB"
+                        }
+                    },
+                    "albumId": 39791657
+                }
+            },
+            {
+                "id": "wy_34749838",
+                "name": "Nameless Heart",
+                "singer": "悠木碧",
+                "source": "wy",
+                "interval": "03:42",
+                "meta": {
+                    "songId": 34749838,
+                    "albumName": "Nameless Heart",
+                    "picUrl": "https://p1.music.126.net/38YxK35I2bcL0NWdPyrONw==/109951168894267116.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "3.40 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "8.50 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "25.77 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "25.77 MB"
+                        },
+                        "320k": {
+                            "size": "8.50 MB"
+                        },
+                        "128k": {
+                            "size": "3.40 MB"
+                        }
+                    },
+                    "albumId": 3295307
+                }
+            },
+            {
+                "id": "wy_1359559978",
+                "name": "さよならくちびる",
+                "singer": "ハルレオ",
+                "source": "wy",
+                "interval": "04:01",
+                "meta": {
+                    "songId": 1359559978,
+                    "albumName": "さよならくちびる",
+                    "picUrl": "https://p1.music.126.net/VTNqAWQuBFDJG3IUP2jePw==/109951164091535251.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "3.68 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "9.21 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "26.57 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "26.57 MB"
+                        },
+                        "320k": {
+                            "size": "9.21 MB"
+                        },
+                        "128k": {
+                            "size": "3.68 MB"
+                        }
+                    },
+                    "albumId": 79310385
+                }
+            },
+            {
+                "id": "wy_27485090",
+                "name": "真夏のフォトグラフ",
+                "singer": "azusa",
+                "source": "wy",
+                "interval": "04:26",
+                "meta": {
+                    "songId": 27485090,
+                    "albumName": "真夏のフォトグラフ",
+                    "picUrl": "https://p1.music.126.net/MjiL7geSJXewYgiBxqfTDg==/109951163598175304.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.07 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "10.18 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "28.20 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "28.20 MB"
+                        },
+                        "320k": {
+                            "size": "10.18 MB"
+                        },
+                        "128k": {
+                            "size": "4.07 MB"
+                        }
+                    },
+                    "albumId": 2615015
+                }
+            },
+            {
+                "id": "wy_622321",
+                "name": "笑顔でいられるように",
+                "singer": "森 恵",
+                "source": "wy",
+                "interval": "05:40",
+                "meta": {
+                    "songId": 622321,
+                    "albumName": "笑顔でいられるように",
+                    "picUrl": "https://p1.music.126.net/dRZusZv2p3vOCCbbEiHPzA==/18625726976343970.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "5.20 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "13.01 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "35.90 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "35.90 MB"
+                        },
+                        "320k": {
+                            "size": "13.01 MB"
+                        },
+                        "128k": {
+                            "size": "5.20 MB"
+                        }
+                    },
+                    "albumId": 59380
+                }
+            },
+            {
+                "id": "wy_31134830",
+                "name": "こんな世界、知りたくなかった。",
+                "singer": "沢井美空",
+                "source": "wy",
+                "interval": "04:16",
+                "meta": {
+                    "songId": 31134830,
+                    "albumName": "憂鬱日和。",
+                    "picUrl": "https://p1.music.126.net/jNxKjp6L8stIASt20koEZw==/109951167807510093.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "3.91 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "9.78 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "47.49 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "47.49 MB"
+                        },
+                        "320k": {
+                            "size": "9.78 MB"
+                        },
+                        "128k": {
+                            "size": "3.91 MB"
+                        }
+                    },
+                    "albumId": 3112395
+                }
+            },
+            {
+                "id": "wy_402070888",
+                "name": "明日への手紙(ドラマバージョン)",
+                "singer": "手嶌葵",
+                "source": "wy",
+                "interval": "05:19",
+                "meta": {
+                    "songId": 402070888,
+                    "albumName": "明日への手紙(ドラマバージョン)",
+                    "picUrl": "https://p1.music.126.net/PZL44Wou7wotKIFOA6_EOw==/109951167353493915.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.87 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "12.18 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "31.34 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "31.34 MB"
+                        },
+                        "320k": {
+                            "size": "12.18 MB"
+                        },
+                        "128k": {
+                            "size": "4.87 MB"
+                        }
+                    },
+                    "albumId": 34477280
+                }
+            },
+            {
+                "id": "wy_41416580",
+                "name": "歩いても歩いても、夜空は僕を追いかけてくる (cover)",
+                "singer": "鎖那",
+                "source": "wy",
+                "interval": "05:21",
+                "meta": {
+                    "songId": 41416580,
+                    "albumName": "(un) sentimental spica",
+                    "picUrl": "https://p1.music.126.net/nLjDk-dEkoMFiQj4yMGeqA==/109951167977837317.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.90 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "12.25 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "68.80 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "68.80 MB"
+                        },
+                        "320k": {
+                            "size": "12.25 MB"
+                        },
+                        "128k": {
+                            "size": "4.90 MB"
+                        }
+                    },
+                    "albumId": 3439884
+                }
+            },
+            {
+                "id": "wy_1354451040",
+                "name": "約束",
+                "singer": "Akie秋绘",
+                "source": "wy",
+                "interval": "04:52",
+                "meta": {
+                    "songId": 1354451040,
+                    "albumName": "约定",
+                    "picUrl": "https://p1.music.126.net/iC47JpZ_cLo8Hi3uRKS9WA==/109951167835095489.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.46 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "11.15 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "31.02 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "31.02 MB"
+                        },
+                        "320k": {
+                            "size": "11.15 MB"
+                        },
+                        "128k": {
+                            "size": "4.46 MB"
+                        }
+                    },
+                    "albumId": 78195836
+                }
+            },
+            {
+                "id": "wy_1815901850",
+                "name": "別の人の彼女になったよ",
+                "singer": "Lefty Hand Cream",
+                "source": "wy",
+                "interval": "05:09",
+                "meta": {
+                    "songId": 1815901850,
+                    "albumName": "別の人の彼女になったよ",
+                    "picUrl": "https://p2.music.126.net/ApjxYIvvUP_tEzQ3pPH7rA==/109951165674109191.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.73 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "11.82 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "30.85 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "30.85 MB"
+                        },
+                        "320k": {
+                            "size": "11.82 MB"
+                        },
+                        "128k": {
+                            "size": "4.73 MB"
+                        }
+                    },
+                    "albumId": 122296192
+                }
+            },
+            {
+                "id": "wy_465677827",
+                "name": "雪花火",
+                "singer": "早見沙織",
+                "source": "wy",
+                "interval": "04:50",
+                "meta": {
+                    "songId": 465677827,
+                    "albumName": "TVアニメ「風夏」サウンドコレクション",
+                    "picUrl": "https://p1.music.126.net/Gxv70p2C1mzBrS_BzzcASA==/109951166004119366.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.43 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "11.07 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "30.67 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "30.67 MB"
+                        },
+                        "320k": {
+                            "size": "11.07 MB"
+                        },
+                        "128k": {
+                            "size": "4.43 MB"
+                        }
+                    },
+                    "albumId": 35283162
+                }
+            },
+            {
+                "id": "wy_4917141",
+                "name": "大切な場所",
+                "singer": "斎藤桃子、悠木碧",
+                "source": "wy",
+                "interval": "05:19",
+                "meta": {
+                    "songId": 4917141,
+                    "albumName": "Aチャンネル+smile",
+                    "picUrl": "https://p2.music.126.net/zA0Xsi6nZNm4hWUA73gaPw==/6664139976089708.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.88 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "12.19 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "35.07 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "35.07 MB"
+                        },
+                        "320k": {
+                            "size": "12.19 MB"
+                        },
+                        "128k": {
+                            "size": "4.88 MB"
+                        }
+                    },
+                    "albumId": 492471
+                }
+            },
+            {
+                "id": "wy_228903",
+                "name": "Hope（Cover 初音miku（yuyoyuppe））",
+                "singer": "Evalia、FayMC",
+                "source": "wy",
+                "interval": "03:21",
+                "meta": {
+                    "songId": 228903,
+                    "albumName": "11～13年早期翻唱合集",
+                    "picUrl": "https://p1.music.126.net/RpmpNPjauRXtzn40LFNghg==/109951162996408415.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "3.07 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "128k": {
+                            "size": "3.07 MB"
+                        }
+                    },
+                    "albumId": 23046
+                }
+            },
+            {
+                "id": "wy_424264951",
+                "name": "GIRAFFE BLUES ~Freyja Solo~",
+                "singer": "鈴木みのり",
+                "source": "wy",
+                "interval": "05:16",
+                "meta": {
+                    "songId": 424264951,
+                    "albumName": "絶対零度θノヴァティック/破滅の純情",
+                    "picUrl": "https://p1.music.126.net/M97eXLKhQAyuCFjIcqQiQw==/3250156385486827.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.83 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "12.08 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "38.53 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "38.53 MB"
+                        },
+                        "320k": {
+                            "size": "12.08 MB"
+                        },
+                        "128k": {
+                            "size": "4.83 MB"
+                        }
+                    },
+                    "albumId": 34808291
+                }
+            },
+            {
+                "id": "wy_1942407010",
+                "name": "じゃあね、またね。",
+                "singer": "りりあ。",
+                "source": "wy",
+                "interval": "04:05",
+                "meta": {
+                    "songId": 1942407010,
+                    "albumName": "じゃあね、またね。",
+                    "picUrl": "https://p1.music.126.net/qFcufE7Mu_qjBT8wwQbdxQ==/109951167351265028.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "3.75 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "9.39 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "26.44 MB"
+                        },
+                        {
+                            "type": "flac24bit",
+                            "size": "48.60 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac24bit": {
+                            "size": "48.60 MB"
+                        },
+                        "flac": {
+                            "size": "26.44 MB"
+                        },
+                        "320k": {
+                            "size": "9.39 MB"
+                        },
+                        "128k": {
+                            "size": "3.75 MB"
+                        }
+                    },
+                    "albumId": 144149979
+                }
+            },
+            {
+                "id": "wy_606427",
+                "name": "たからもの",
+                "singer": "河野マリナ",
+                "source": "wy",
+                "interval": "05:04",
+                "meta": {
+                    "songId": 606427,
+                    "albumName": "たからもの",
+                    "picUrl": "https://p1.music.126.net/sWONYVI8V2Jxopkthyva3g==/631119674355159.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.65 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "11.62 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "30.82 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "30.82 MB"
+                        },
+                        "320k": {
+                            "size": "11.62 MB"
+                        },
+                        "128k": {
+                            "size": "4.65 MB"
+                        }
+                    },
+                    "albumId": 57521
+                }
+            },
+            {
+                "id": "wy_2020788863",
+                "name": "星月夜",
+                "singer": "由薫",
+                "source": "wy",
+                "interval": "04:25",
+                "meta": {
+                    "songId": 2020788863,
+                    "albumName": "星月夜",
+                    "picUrl": "https://p1.music.126.net/5CFttMugbP-tTv2fxslOLg==/109951168294069139.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.06 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "10.14 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "28.29 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "28.29 MB"
+                        },
+                        "320k": {
+                            "size": "10.14 MB"
+                        },
+                        "128k": {
+                            "size": "4.06 MB"
+                        }
+                    },
+                    "albumId": 159685714
+                }
+            },
+            {
+                "id": "wy_1815109509",
+                "name": "嘘月",
+                "singer": "ヨルシカ",
+                "source": "wy",
+                "interval": "04:50",
+                "meta": {
+                    "songId": 1815109509,
+                    "albumName": "創作",
+                    "picUrl": "https://p1.music.126.net/Ok0xk_CpJW21lAUG9UiMww==/109951165666599650.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.43 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "11.08 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "29.12 MB"
+                        },
+                        {
+                            "type": "flac24bit",
+                            "size": "100.39 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac24bit": {
+                            "size": "100.39 MB"
+                        },
+                        "flac": {
+                            "size": "29.12 MB"
+                        },
+                        "320k": {
+                            "size": "11.08 MB"
+                        },
+                        "128k": {
+                            "size": "4.43 MB"
+                        }
+                    },
+                    "albumId": 122157348
+                }
+            },
+            {
+                "id": "wy_28391863",
+                "name": "可能世界论",
+                "singer": "赤髪、なゆごろう",
+                "source": "wy",
+                "interval": "06:14",
+                "meta": {
+                    "songId": 28391863,
+                    "albumName": "melt away",
+                    "picUrl": "https://p2.music.126.net/mFv_ofD6eq7WiU0SALOanQ==/109951163179315560.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "5.71 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "14.28 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "40.71 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "40.71 MB"
+                        },
+                        "320k": {
+                            "size": "14.28 MB"
+                        },
+                        "128k": {
+                            "size": "5.71 MB"
+                        }
+                    },
+                    "albumId": 2786207
+                }
+            },
+            {
+                "id": "wy_858084",
+                "name": "さよならいえるかな",
+                "singer": "ねこぼーろ、初心者F",
+                "source": "wy",
+                "interval": "04:28",
+                "meta": {
+                    "songId": 858084,
+                    "albumName": "Alternative",
+                    "picUrl": "https://p1.music.126.net/p5wwQFIrMaHW9Fak-qgIdw==/904898069659917.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.10 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "10.26 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "320k": {
+                            "size": "10.26 MB"
+                        },
+                        "128k": {
+                            "size": "4.10 MB"
+                        }
+                    },
+                    "albumId": 85547
+                }
+            },
+            {
+                "id": "wy_29460929",
+                "name": "鳥籠 -in this cage-",
+                "singer": "天野月",
+                "source": "wy",
+                "interval": "06:21",
+                "meta": {
+                    "songId": 29460929,
+                    "albumName": "ごもくならべ",
+                    "picUrl": "https://p1.music.126.net/e1c3XXIpYzTiUq8NvgtDWg==/109951168704260760.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "5.82 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "14.54 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "46.07 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "46.07 MB"
+                        },
+                        "320k": {
+                            "size": "14.54 MB"
+                        },
+                        "128k": {
+                            "size": "5.82 MB"
+                        }
+                    },
+                    "albumId": 3029314
+                }
+            },
+            {
+                "id": "wy_1882027031",
+                "name": "嘘つき",
+                "singer": "あたらよ",
+                "source": "wy",
+                "interval": "04:56",
+                "meta": {
+                    "songId": 1882027031,
+                    "albumName": "夜明け前",
+                    "picUrl": "https://p1.music.126.net/iS_bFRacic_wcHupECPqcw==/109951166463142546.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.53 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "11.32 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "33.42 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "33.42 MB"
+                        },
+                        "320k": {
+                            "size": "11.32 MB"
+                        },
+                        "128k": {
+                            "size": "4.53 MB"
+                        }
+                    },
+                    "albumId": 133888584
+                }
+            },
+            {
+                "id": "wy_35090707",
+                "name": "あの頃~ジンジンバオヂュオニー~",
+                "singer": "whiteeeen",
+                "source": "wy",
+                "interval": "05:47",
+                "meta": {
+                    "songId": 35090707,
+                    "albumName": "あの頃～ジンジンバオヂュオニー～",
+                    "picUrl": "https://p1.music.126.net/fB7jJkRwhmACmRajZZm-Kg==/3407386534502077.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "5.30 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "13.26 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "69.01 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "69.01 MB"
+                        },
+                        "320k": {
+                            "size": "13.26 MB"
+                        },
+                        "128k": {
+                            "size": "5.30 MB"
+                        }
+                    },
+                    "albumId": 3308703
+                }
+            },
+            {
+                "id": "wy_26114621",
+                "name": "長い間",
+                "singer": "友歌里",
+                "source": "wy",
+                "interval": "04:22",
+                "meta": {
+                    "songId": 26114621,
+                    "albumName": "On/Off 2nd Season ~Seven Colors~",
+                    "picUrl": "https://p2.music.126.net/TDt9Kpvb8wxAU4TX-Q34Jw==/2370547069508986.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.01 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "10.03 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "320k": {
+                            "size": "10.03 MB"
+                        },
+                        "128k": {
+                            "size": "4.01 MB"
+                        }
+                    },
+                    "albumId": 2389476
+                }
+            },
+            {
+                "id": "wy_26116374",
+                "name": "ありがとうまたね",
+                "singer": "HAPPY BIRTHDAY",
+                "source": "wy",
+                "interval": "04:57",
+                "meta": {
+                    "songId": 26116374,
+                    "albumName": "今夜きみが怖い夢を見ませんように",
+                    "picUrl": "https://p1.music.126.net/n1hySb27ntKL8OsOvNZT8A==/109951166200562896.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.54 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "11.36 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "60.28 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "60.28 MB"
+                        },
+                        "320k": {
+                            "size": "11.36 MB"
+                        },
+                        "128k": {
+                            "size": "4.54 MB"
+                        }
+                    },
+                    "albumId": 2389679
+                }
+            },
+            {
+                "id": "wy_405998840",
+                "name": "恋のテンキヨホウ",
+                "singer": "whiteeeen",
+                "source": "wy",
+                "interval": "05:10",
+                "meta": {
+                    "songId": 405998840,
+                    "albumName": "声",
+                    "picUrl": "https://p2.music.126.net/Mqj2AlBSRo3jdE1wB2DnIQ==/109951163335585093.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.74 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "11.85 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "58.64 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "58.64 MB"
+                        },
+                        "320k": {
+                            "size": "11.85 MB"
+                        },
+                        "128k": {
+                            "size": "4.74 MB"
+                        }
+                    },
+                    "albumId": 34504576
+                }
+            },
+            {
+                "id": "wy_1895261682",
+                "name": "抜刀 (feat. 花譜)",
+                "singer": "花譜、羽生まゐご",
+                "source": "wy",
+                "interval": "03:34",
+                "meta": {
+                    "songId": 1895261682,
+                    "albumName": "抜刀 (feat. 花譜)",
+                    "picUrl": "https://p1.music.126.net/SK0Npu_bYwISBqqj88firA==/109951166625137707.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "3.27 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "8.18 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "24.64 MB"
+                        },
+                        {
+                            "type": "flac24bit",
+                            "size": "44.12 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac24bit": {
+                            "size": "44.12 MB"
+                        },
+                        "flac": {
+                            "size": "24.64 MB"
+                        },
+                        "320k": {
+                            "size": "8.18 MB"
+                        },
+                        "128k": {
+                            "size": "3.27 MB"
+                        }
+                    },
+                    "albumId": 136164528
+                }
+            },
+            {
+                "id": "wy_1328183119",
+                "name": "Cage <NTv>",
+                "singer": "SawanoHiroyuki[nZk]、Tielle",
+                "source": "wy",
+                "interval": "04:39",
+                "meta": {
+                    "songId": 1328183119,
+                    "albumName": "narrative / NOISEofRAIN",
+                    "picUrl": "http://p2.music.126.net/5Snwi_g9REDPnMnMuUvuNg==/109951167842391851.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.27 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "10.67 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "55.98 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "55.98 MB"
+                        },
+                        "320k": {
+                            "size": "10.67 MB"
+                        },
+                        "128k": {
+                            "size": "4.27 MB"
+                        }
+                    },
+                    "albumId": 74579102
+                }
+            },
+            {
+                "id": "wy_1501450522",
+                "name": "景色",
+                "singer": "花譜",
+                "source": "wy",
+                "interval": "04:48",
+                "meta": {
+                    "songId": 1501450522,
+                    "albumName": "魔法",
+                    "picUrl": "https://p2.music.126.net/OPArnWreTh4ISr7LvlNhVw==/109951168551087913.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.40 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "11.00 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "27.62 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "27.62 MB"
+                        },
+                        "320k": {
+                            "size": "11.00 MB"
+                        },
+                        "128k": {
+                            "size": "4.40 MB"
+                        }
+                    },
+                    "albumId": 99279869
+                }
+            },
+            {
+                "id": "wy_1907751324",
+                "name": "ARCADIA",
+                "singer": "ヰ世界情緒",
+                "source": "wy",
+                "interval": "07:11",
+                "meta": {
+                    "songId": 1907751324,
+                    "albumName": "創生",
+                    "picUrl": "https://p2.music.126.net/c1JArnXMoUkEQdS1EcLXyw==/109951168567591834.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "6.59 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "16.47 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "50.69 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "50.69 MB"
+                        },
+                        "320k": {
+                            "size": "16.47 MB"
+                        },
+                        "128k": {
+                            "size": "6.59 MB"
+                        }
+                    },
+                    "albumId": 138160650
+                }
+            },
+            {
+                "id": "wy_675438",
+                "name": "苍い海",
+                "singer": "yuiko",
+                "source": "wy",
+                "interval": "05:21",
+                "meta": {
+                    "songId": 675438,
+                    "albumName": "seven’th Color",
+                    "picUrl": "https://p2.music.126.net/N7ZGmCR4M2tiTATjSFcgLg==/884007348732200.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.91 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "12.28 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "320k": {
+                            "size": "12.28 MB"
+                        },
+                        "128k": {
+                            "size": "4.91 MB"
+                        }
+                    },
+                    "albumId": 65172
+                }
+            },
+            {
+                "id": "wy_2065868022",
+                "name": "Things You Said",
+                "singer": "Cody Fry、Abby Cates",
+                "source": "wy",
+                "interval": "03:54",
+                "meta": {
+                    "songId": 2065868022,
+                    "albumName": "Things You Said",
+                    "picUrl": "http://p1.music.126.net/Q9OkD_MsN63DXdP86fiB4w==/109951168753316527.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "3.58 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "8.96 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "21.24 MB"
+                        },
+                        {
+                            "type": "flac24bit",
+                            "size": "42.69 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac24bit": {
+                            "size": "42.69 MB"
+                        },
+                        "flac": {
+                            "size": "21.24 MB"
+                        },
+                        "320k": {
+                            "size": "8.96 MB"
+                        },
+                        "128k": {
+                            "size": "3.58 MB"
+                        }
+                    },
+                    "albumId": 170087245
+                }
+            },
+            {
+                "id": "wy_1910711187",
+                "name": "花火",
+                "singer": "Tielle",
+                "source": "wy",
+                "interval": "04:31",
+                "meta": {
+                    "songId": 1910711187,
+                    "albumName": "花火",
+                    "picUrl": "https://p2.music.126.net/c_YSgUEFHbMk4iVkjR6IyQ==/109951166915559843.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.15 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "10.37 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "26.66 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "26.66 MB"
+                        },
+                        "320k": {
+                            "size": "10.37 MB"
+                        },
+                        "128k": {
+                            "size": "4.15 MB"
+                        }
+                    },
+                    "albumId": 138622486
+                }
+            },
+            {
+                "id": "wy_1903149553",
+                "name": "无名的人",
+                "singer": "毛不易",
+                "source": "wy",
+                "interval": "04:42",
+                "meta": {
+                    "songId": 1903149553,
+                    "albumName": "无名的人",
+                    "picUrl": "http://p1.music.126.net/tLKBLSGTBgHKpazu83hZfw==/109951166724351491.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.31 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "10.77 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "26.42 MB"
+                        },
+                        {
+                            "type": "flac24bit",
+                            "size": "52.12 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac24bit": {
+                            "size": "52.12 MB"
+                        },
+                        "flac": {
+                            "size": "26.42 MB"
+                        },
+                        "320k": {
+                            "size": "10.77 MB"
+                        },
+                        "128k": {
+                            "size": "4.31 MB"
+                        }
+                    },
+                    "albumId": 137431418
+                }
+            },
+            {
+                "id": "wy_22691514",
+                "name": "夜空ノムコウ",
+                "singer": "Sotte Bosse",
+                "source": "wy",
+                "interval": "05:08",
+                "meta": {
+                    "songId": 22691514,
+                    "albumName": "innocent view",
+                    "picUrl": "https://p1.music.126.net/q3v2pPQTg2Ou21-mWPK9qQ==/657507953432497.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.71 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "11.77 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "29.72 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "29.72 MB"
+                        },
+                        "320k": {
+                            "size": "11.77 MB"
+                        },
+                        "128k": {
+                            "size": "4.71 MB"
+                        }
+                    },
+                    "albumId": 2081872
+                }
+            },
+            {
+                "id": "wy_522529624",
+                "name": "聞こえますか",
+                "singer": "HoneyWorks、莉犬",
+                "source": "wy",
+                "interval": "03:40",
+                "meta": {
+                    "songId": 522529624,
+                    "albumName": "東京ウインターセッション",
+                    "picUrl": "https://p1.music.126.net/_Is4YWbdiD4yBoxeR4ZGoA==/109951166200289382.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "3.36 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "8.41 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "40.46 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "40.46 MB"
+                        },
+                        "320k": {
+                            "size": "8.41 MB"
+                        },
+                        "128k": {
+                            "size": "3.36 MB"
+                        }
+                    },
+                    "albumId": 36912172
+                }
+            },
+            {
+                "id": "wy_26116370",
+                "name": "君だったら",
+                "singer": "HAPPY BIRTHDAY",
+                "source": "wy",
+                "interval": "05:20",
+                "meta": {
+                    "songId": 26116370,
+                    "albumName": "今夜きみが怖い夢を見ませんように",
+                    "picUrl": "https://p1.music.126.net/n1hySb27ntKL8OsOvNZT8A==/109951166200562896.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.89 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "12.23 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "62.33 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "62.33 MB"
+                        },
+                        "320k": {
+                            "size": "12.23 MB"
+                        },
+                        "128k": {
+                            "size": "4.89 MB"
+                        }
+                    },
+                    "albumId": 2389679
+                }
+            },
+            {
+                "id": "wy_409020556",
+                "name": "またあした",
+                "singer": "なゆごろう、000、鎖那、いかさん",
+                "source": "wy",
+                "interval": "05:36",
+                "meta": {
+                    "songId": 409020556,
+                    "albumName": "君は夢の続きを歌う",
+                    "picUrl": "https://p1.music.126.net/pAz9HZWmxR61kPqfUcilJw==/3311729025478289.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "5.13 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "12.83 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "320k": {
+                            "size": "12.83 MB"
+                        },
+                        "128k": {
+                            "size": "5.13 MB"
+                        }
+                    },
+                    "albumId": 34590790
+                }
+            },
+            {
+                "id": "wy_659094",
+                "name": "傘",
+                "singer": "竹仲絵里",
+                "source": "wy",
+                "interval": "04:47",
+                "meta": {
+                    "songId": 659094,
+                    "albumName": "傘",
+                    "picUrl": "https://p1.music.126.net/YHgZUXgrHE-ScDqDr-UBlg==/109951168113092762.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.39 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "10.97 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "30.40 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "30.40 MB"
+                        },
+                        "320k": {
+                            "size": "10.97 MB"
+                        },
+                        "128k": {
+                            "size": "4.39 MB"
+                        }
+                    },
+                    "albumId": 63441
+                }
+            },
+            {
+                "id": "wy_1840001532",
+                "name": "人間だった（翻自 ピコン）",
+                "singer": "Akie秋绘",
+                "source": "wy",
+                "interval": "04:07",
+                "meta": {
+                    "songId": 1840001532,
+                    "albumName": "曾生为人 人間だった",
+                    "picUrl": "https://p1.music.126.net/W8oq1Q1xDxt0FYteuSgDfw==/109951165921285102.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "3.78 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "9.45 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "45.38 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "45.38 MB"
+                        },
+                        "320k": {
+                            "size": "9.45 MB"
+                        },
+                        "128k": {
+                            "size": "3.78 MB"
+                        }
+                    },
+                    "albumId": 126505821
+                }
+            },
+            {
+                "id": "wy_1355846808",
+                "name": "泥中に咲く",
+                "singer": "ウォルピスカーター",
+                "source": "wy",
+                "interval": "04:46",
+                "meta": {
+                    "songId": 1355846808,
+                    "albumName": "これからもウォルピス社の提供でお送りします。",
+                    "picUrl": "https://p1.music.126.net/AKMktsZziovGXop7K4H3nw==/109951163967268365.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "4.38 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "10.95 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "320k": {
+                            "size": "10.95 MB"
+                        },
+                        "128k": {
+                            "size": "4.38 MB"
+                        }
+                    },
+                    "albumId": 78267024
+                }
+            },
+            {
+                "id": "wy_527573",
+                "name": "想い出は遠くの日々",
+                "singer": "Eminence Symphony Orchestra",
+                "source": "wy",
+                "interval": "04:10",
+                "meta": {
+                    "songId": 527573,
+                    "albumName": "新海誠作品イメージアルバム 「Promise」",
+                    "picUrl": "http://p1.music.126.net/O9vr2_lr6vRbQ68VWJF44w==/109951164950199108.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "3.83 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "9.56 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "34.97 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "34.97 MB"
+                        },
+                        "320k": {
+                            "size": "9.56 MB"
+                        },
+                        "128k": {
+                            "size": "3.83 MB"
+                        }
+                    },
+                    "albumId": 49729
+                }
+            },
+            {
+                "id": "wy_2040893687",
+                "name": "無敵のふたり",
+                "singer": "林ゆうき",
+                "source": "wy",
+                "interval": "01:54",
+                "meta": {
+                    "songId": 2040893687,
+                    "albumName": "TVアニメ『君は放課後インソムニア』オリジナル・サウンドトラック",
+                    "picUrl": "https://p1.music.126.net/qafHpsGk8UiQySvduuFGqw==/109951168557020758.jpg",
+                    "qualitys": [
+                        {
+                            "type": "128k",
+                            "size": "1.74 MB"
+                        },
+                        {
+                            "type": "320k",
+                            "size": "4.35 MB"
+                        },
+                        {
+                            "type": "flac",
+                            "size": "9.23 MB"
+                        }
+                    ],
+                    "_qualitys": {
+                        "flac": {
+                            "size": "9.23 MB"
+                        },
+                        "320k": {
+                            "size": "4.35 MB"
+                        },
+                        "128k": {
+                            "size": "1.74 MB"
+                        }
+                    },
+                    "albumId": 164081495
+                }
+            }
+        ]
+    }
+}
