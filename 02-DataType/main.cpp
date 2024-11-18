@@ -1,10 +1,12 @@
 #include<iostream>  
 #include <limits>
- 
+#include <windows.h>
+
 using namespace std;  
   
 int main()  
-{  
+{
+    SetConsoleOutputCP(65001);
     cout << "type: \t\t" << "************size**************"<< endl;  
     cout << "bool: \t\t" << "所占字节数：" << sizeof(bool);  
     cout << "\t最大值：" << (numeric_limits<bool>::max)();  
