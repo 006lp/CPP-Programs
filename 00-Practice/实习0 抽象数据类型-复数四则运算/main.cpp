@@ -130,10 +130,5 @@ int main()
         cout << "---------------------------------" << endl;
     }
 
-    cout << "By 006lp" << endl
-         << "2024-10-10" << endl
-         << "All Rights Reserved." << endl
-         << endl;
-
     return 0;
 }
