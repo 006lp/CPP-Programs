@@ -88,6 +88,9 @@ int main()
         cout << ", b = ";
         b.print();
         cout << endl;
+        cout << "a的实部为：" << a.real << "，虚部为：" << a.imag << endl;
+        cout << "b的实部为：" << b.real << "，虚部为：" << b.imag << endl;
+        cout << endl;
 
         cout << "a + b = ";
         (a + b).print();
