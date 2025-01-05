@@ -103,7 +103,7 @@ int main()
     }
 
     // 询问用户是否只输出文件夹或文件
-    std::cout << "是否只显示文件夹 (y/n，默认只显示文件夹): ";
+    std::cout << "是否显示具体文件名 (y/n，默认只显示文件夹): ";
     std::getline(std::cin, choice); // 使用 std::getline 读取用户输入
 
     if (choice == "y" || choice == "Y")
